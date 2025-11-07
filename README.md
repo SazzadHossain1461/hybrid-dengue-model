@@ -349,7 +349,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sazzad Hossain**
 - GitHub: https://github.com/SazzadHossain1461
 - Email: sazzadhossain74274@gmail.com
 
