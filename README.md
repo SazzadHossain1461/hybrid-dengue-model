@@ -382,13 +382,6 @@ A: Yes, save the model with `model.save('dengue_model.h5')` and load it in produ
 
 ---
 
-## 📞 Support
-
-For issues or questions:
-- Open an [GitHub Issue](https://github.com/yourusername/dengue-prediction-hybrid/issues)
-- Email: your.email@example.com
-- Join our [Discussions](https://github.com/yourusername/dengue-prediction-hybrid/discussions)
-
 ---
 
 **⭐ If you find this project useful, please star it on GitHub!**
