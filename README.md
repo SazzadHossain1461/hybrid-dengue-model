@@ -289,34 +289,8 @@ dengue-prediction-hybrid/
 
 ---
 
-## 🔧 Troubleshooting
 
-### Error: "ModuleNotFoundError: No module named 'tensorflow'"
-```bash
-pip install --upgrade tensorflow
-```
 
-### Error: "No module named 'pandas'"
-```bash
-pip install pandas
-```
-
-### Error: "CSV file not found"
-- Ensure `dataset.csv` is in the same directory as the script
-- Check file name spelling
-
-### Slow training
-- Reduce `dnn_epochs` in config
-- Use smaller `dnn_batch_size`
-- Enable GPU (CUDA) support if available
-
-### Out of memory
-```bash
-# Reduce batch size in HybridConfig
-dnn_batch_size: int = 16  # Default is 32
-```
-
----
 
 ## 🤝 Contributing
 
@@ -376,8 +350,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: https://github.com/SazzadHossain1461
+- Email: sazzadhossain74274@gmail.com
 
 ---
 
